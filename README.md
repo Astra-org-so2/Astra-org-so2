@@ -86,14 +86,21 @@ impl Engineer {
 ### 📊 Telemetry & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Astra-org-so2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=16161e" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astra-org-so2&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=16161e" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Astra-org-so2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=16161e" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Astra-org-so2&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=16161e" height="165" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Astra-org-so2&theme=tokyonight&hide_border=true&background=16161E&ring=7AA2F7&fire=FF9E64&currStreakNum=7AA2F7" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
   <!-- Contribution Grid Snake (Dark Palette) -->
+  <!-- Появится после первого запуска GitHub Action: .github/workflows/snake.yml -->
   <img src="https://raw.githubusercontent.com/Astra-org-so2/Astra-org-so2/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Contribution Grid Snake" width="85%" />
 </div>
 
